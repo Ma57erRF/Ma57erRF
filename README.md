@@ -1,4 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=256097&random=true&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ABAP)](https://git.io/typing-svg)
+<div>
+  <a href="https://github.com/Ma57erRF"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ma57erRF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma57erRF&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+
 <!--
 **Ma57erRF/Ma57erRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
