@@ -7,9 +7,9 @@
 
 
 <div>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F336-3364809_sap-abap-developer-jobdev-guru-rh-jobdev-guru.png&f=1&nofb=1&ipt=cce5fa0d89ddac36f054ee6cd051b3378b05bda3f4441dcf4501d19d9e2defa5&ipo=images"/></a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img height="50em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 </div>
 <!--
 ##
