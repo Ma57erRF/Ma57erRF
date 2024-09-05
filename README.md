@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=256097&random=true&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ABAP)](https://git.io/typing-svg)
 <!--
 **Ma57erRF/Ma57erRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
