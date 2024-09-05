@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=256097&random=true&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ABAP)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=217639&width=435&lines=hello+i'm+Ronald+Fernandes)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/Ma57erRF"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ma57erRF&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
